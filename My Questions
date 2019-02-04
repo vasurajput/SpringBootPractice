@@ -1,0 +1,20 @@
+Java  Questions
+==========================
+1- defference bw static and default in java8
+2- can we override static method
+3- diff bw lazy and eager in hibernate
+4- can we lock 2 object in syncronized block or method in multithreading
+5- diff bw @service and @component
+6- diff bw singleton java class and @singleton annotation in spring boot
+7- scope in spring boot
+8- method overloading
+  Scnerio
+   void f(int n)
+   void f(String l)
+   from main call f(null)
+   What will be the output
+   
+ 9- static and dynamic loading
+ 10- diff bw @put and @post
+ 11- what is idompotent @put or @post
+ 12- diff bw arraylist and linklist
